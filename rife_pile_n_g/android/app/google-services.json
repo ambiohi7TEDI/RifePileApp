@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "571310826605",
+    "project_id": "rifepile",
+    "storage_bucket": "rifepile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571310826605:android:0000cf35868137f2da0b64",
+        "android_client_info": {
+          "package_name": "com.mycompany.rifepileng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571310826605-g08ouspik54vor7egpk6ntc7cmn36dq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.rifepileng",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "571310826605-mph5ppggj760gpfafdma69jv8079d88l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASpXhRSGSu93zJvtgxPSvFxwg6LDZBu0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571310826605-mph5ppggj760gpfafdma69jv8079d88l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571310826605-t2bda4r36qqrcr73952rdfb44knf2u4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.rifepileng"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
